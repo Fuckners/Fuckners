@@ -40,10 +40,10 @@
 
   <img align="center" alt="npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <!-- <small>npm</small> -->
-
+  <!--
   <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <!-- <small>vuejs</small> -->
-
+  <small>vuejs</small>
+  -->
   <img align="center" alt="socketio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
   <!-- <small>socketio</small> -->
 
