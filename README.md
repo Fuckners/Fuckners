@@ -2,10 +2,10 @@
 
 ## Sobre mim 📖
 
-* Me chamo Felipe Fuckner, tenho 20 anos e atualmente sou um programador focado em back-end com NodeJs!   
-* Por mais que meu foco seja no backend, consigo me virar muito bem com javascript front-end e, se dúvidar, um pouquinho de python também 😁.   
+* Me chamo Felipe Fuckner, tenho 21 anos e atualmente sou um programador focado em back-end com NodeJs!   
+* Por mais que meu foco seja no backend, consigo me virar muito bem com front-end ~e, se dúvidar, um pouquinho de python também 😁~.   
 * Não sou muito "comunicativo" no sentido de socializar... mas não! Não significa que eu não goste de socializar, só significa que eu tenho um pouquinho mais de dificuldade para isso.   
-* Tenho como passatempo ajudar pessoas desamparadas no [discord](https://discord.gg/6NNjTRGuMy) 😅. Por mais que eu tenha dito que não sou muito comunicativo, sempre estou a disposição para ajudar/trocar conhecimentos e fazer novas amizades.    
+* Tenho como passatempo ajudar pessoas desamparadas no [discord](https://discord.gg/6NNjTRGuMy) 😅. Por mais que eu não seja muito comunicativo, sempre estou a disposição para ajudar/trocar conhecimentos e fazer novas amizades.
 
 <div align="center">
   <a href="https://github.com/Fuckners">
@@ -32,23 +32,26 @@
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!-- <small>html5</small> -->
 
-  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- <small>css3</small> -->
+  <img align="center" alt="prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  <!-- <small>prisma</small> -->
 
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <!-- <small>nodejs</small> -->
+  
+  <img align="center" alt="nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <!-- <small>nextjs</small> -->
 
   <img align="center" alt="npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <!-- <small>npm</small> -->
-  <!--
-  <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <small>vuejs</small>
-  -->
+
   <img align="center" alt="socketio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
   <!-- <small>socketio</small> -->
 
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!-- <small>mysql</small> -->
+
+  <img align="center" alt="postgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <!-- <small>postgres</small> -->
 
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <!-- <small>mongodb</small> -->
