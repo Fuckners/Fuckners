@@ -60,18 +60,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 892 hrs 42 mins
+Total Time: 896 hrs 25 mins
 
-TypeScript                 787 hrs 59 mins +++++++++++++++++++++----   85.37 %
-Other                      30 hrs 20 mins  +------------------------   03.29 %
-Bash                       29 hrs 57 mins  +------------------------   03.25 %
-Prisma                     28 hrs 8 mins   +------------------------   03.05 %
-JSON                       11 hrs 34 mins  -------------------------   01.25 %
+TypeScript                 788 hrs 27 mins +++++++++++++++++++++----   85.08 %
+Other                      30 hrs 20 mins  +------------------------   03.27 %
+Bash                       29 hrs 58 mins  +------------------------   03.24 %
+Prisma                     28 hrs 9 mins   +------------------------   03.04 %
+JSON                       11 hrs 44 mins  -------------------------   01.27 %
 YAML                       6 hrs 43 mins   -------------------------   00.73 %
+Markdown                   4 hrs 58 mins   -------------------------   00.54 %
 Docker                     3 hrs 48 mins   -------------------------   00.41 %
 TSConfig                   3 hrs 34 mins   -------------------------   00.39 %
 SSH Config                 3 hrs 20 mins   -------------------------   00.36 %
-CSV                        2 hrs 24 mins   -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
