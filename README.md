@@ -60,9 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,486 hrs 19 mins
+Total Time: 1,486 hrs 47 mins
 
-TypeScript                 1,313 hrs 37 mins+++++++++++++++++++++----   85.01 %
+TypeScript                 1,314 hrs 5 mins+++++++++++++++++++++----   85.01 %
 Other                      58 hrs 58 mins  +------------------------   03.82 %
 Prisma                     46 hrs 14 mins  +------------------------   02.99 %
 Bash                       43 hrs 15 mins  +------------------------   02.80 %
