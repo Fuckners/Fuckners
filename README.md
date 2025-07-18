@@ -3,8 +3,8 @@
 ## Sobre mim 📖
 
 * Me chamo Felipe Fuckner, tenho 21 anos e atualmente sou um programador focado em back-end com NodeJs!   
-* Por mais que meu foco seja no backend, consigo me virar muito bem com front-end ~e, se dúvidar, um pouquinho de python também 😁~.   
-* Não sou muito "comunicativo" no sentido de socializar... mas não! Não significa que eu não goste de socializar, só significa que eu tenho um pouquinho mais de dificuldade para isso.   
+* Por mais que meu foco seja no backend, consigo me virar bem com front-end.   
+* Não sou muito "comunicativo" no sentido de socializar... mas não! Não significa que eu não goste de socializar, só significa que eu tenho um pouquinho mais de dificuldade para isso.
 * Tenho como passatempo ajudar pessoas desamparadas no [discord](https://discord.gg/6NNjTRGuMy) 😅. Por mais que eu não seja muito comunicativo, sempre estou a disposição para ajudar/trocar conhecimentos e fazer novas amizades.
 
 <div align="center">
