@@ -60,18 +60,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,706 hrs 11 mins
+Total Time: 1,710 hrs 43 mins
 
-TypeScript                 1,498 hrs 57 mins+++++++++++++++++++++----   84.01 %
-Other                      77 hrs 59 mins  +------------------------   04.37 %
-Prisma                     54 hrs 20 mins  +------------------------   03.05 %
-Bash                       50 hrs 8 mins   +------------------------   02.81 %
-JSON                       16 hrs 10 mins  -------------------------   00.91 %
+TypeScript                 1,502 hrs 14 mins+++++++++++++++++++++----   83.98 %
+Other                      77 hrs 59 mins  +------------------------   04.36 %
+Prisma                     54 hrs 20 mins  +------------------------   03.04 %
+Bash                       50 hrs 12 mins  +------------------------   02.81 %
+JSON                       16 hrs 46 mins  -------------------------   00.94 %
 YAML                       15 hrs 57 mins  -------------------------   00.89 %
 Python                     10 hrs 39 mins  -------------------------   00.60 %
 SQL                        10 hrs 33 mins  -------------------------   00.59 %
 Markdown                   10 hrs 21 mins  -------------------------   00.58 %
-JavaScript                 7 hrs 1 min     -------------------------   00.39 %
+JavaScript                 7 hrs 32 mins   -------------------------   00.42 %
 ```
 
 <!--END_SECTION:waka-->
