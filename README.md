@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,738 hrs 35 mins
+Total Time: 1,740 hrs 12 mins
 
-TypeScript                 1,525 hrs 12 mins+++++++++++++++++++++----   83.93 %
+TypeScript                 1,526 hrs 48 mins+++++++++++++++++++++----   83.95 %
 Other                      78 hrs 32 mins  +------------------------   04.32 %
 Prisma                     55 hrs 19 mins  +------------------------   03.04 %
 Bash                       51 hrs 23 mins  +------------------------   02.83 %
-JSON                       17 hrs 21 mins  -------------------------   00.96 %
+JSON                       17 hrs 21 mins  -------------------------   00.95 %
 YAML                       15 hrs 57 mins  -------------------------   00.88 %
 Markdown                   11 hrs 39 mins  -------------------------   00.64 %
 Python                     10 hrs 39 mins  -------------------------   00.59 %
